@@ -1,12 +1,3 @@
-The aim of our project is to solving the issues of Digital Voting using Blockchain Technology.
-
-                                                      Introduction
-
-The most common way in which a country votes is through a paper based ballot or using Standalone Electronic Voting Machines, but isn’t it high time to bring voting into the 21st century of modern Technology? Digital voting is the use of electronic devices, such as voting 
-machines or an internet browser, to cast votes. These are sometimes referred to as e-voting when 
-voting using a machine in a polling station, and i-voting when using a web browser.
-But the main issue that rises in when considering to implement digital Voting is its Security against potential Cyber Attacks.  One way that this issue could be potentially solved is with the help of Blockchain Technologies. With the use of blockchains a secure and robust system for digital voting can be devised. Our idea outlines on how blockchain technology could be used to implement a secure digital voting system. 
-
                                                       Our Idea
 
 For our project, we tried to create a system that doesn’t entirely replace the current voting but rather integrates within a current system, so that the voting can be accessed by the majority of the population.
